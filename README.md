@@ -1,6 +1,6 @@
 ### Hello there!
 
-I'm Gleb, a self-taught Python developer with a passion for vibrant data visualizations. I specialize in maps, though I create other charts as well, and my other specializations include parsing and interactive we design. I've been born and raised in Russia, and I live in Belgrade, Serbia. I believe in the importance of open-source knowledge and I'm an editor of Wikipedia. 
+I'm Gleb, a self-taught Python developer with a passion for vibrant data visualizations. I specialize in maps, though I create other charts as well, and my other specializations include parsing and interactive web design. I've been born and raised in Russia, and I live in Belgrade, Serbia. I believe in the importance of open-source knowledge and I'm an editor of Wikipedia. 
 
 ### Languages and tools
 
@@ -12,9 +12,10 @@ I'm Gleb, a self-taught Python developer with a passion for vibrant data visuali
 
 ### Projects I'm proud of
 
-1. https://github.com/Sibdroid/track-the-sun
-2. https://github.com/Sibdroid/five-texases
-3. https://github.com/Sibdroid/nba-biplayer-statistics
+1. https://github.com/Sibdroid/blue-montana (Python)
+2. https://github.com/Sibdroid/SharpCalculator (C#)
+3. https://github.com/Sibdroid/track-the-sun (Python)
+4. https://github.com/Sibdroid/five-texases (Python)
 
 ### Contact me
 1. Wikipedia: https://en.wikipedia.org/wiki/User:GlebRyabov
